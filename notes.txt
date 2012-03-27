@@ -1,0 +1,7 @@
+@todo Add handling for .picasaoriginals folder. Should go into its existing folder.
+
+@todo Add logic for detecting video files.
+
+@todo Add date fallbacks based on file create date upon EXIF failure or lack of data.
+
+
