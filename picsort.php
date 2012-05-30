@@ -19,6 +19,10 @@
  * would be able to tell if that fit in a time range of another set and
  * suggest it. That would be incredibly useful for obtaining pictures from
  * other people's cameras and adding to your already existing events!
+ *
+ * @todo
+ * - Sort video files by timestamp instead of EXIM data (prompt for Event name)
+ * - Warn if previous directory already exists
 */
 
 
