@@ -1,7 +1,7 @@
 <?
 /**
- * Photo scanner that organizes files into a chronological date structure based
- * on the EXIF data attached to the photo file.
+ * Photo sorter that organizes files into a chronological date structure
+ # appropriately with events, based on the EXIF data attached to the photo file.
  * 
  * The goal at the end of the day is to have the ability to connect your camera,
  * copy the latest pictures from your memory card into a directory, and run this
@@ -14,8 +14,8 @@
  * likely true the majority of the time.
  *
  * @todo
- * However, this would be best done in a database where we store the first
- * and last picture seen in any set. Then upon scanning each new picture, we
+ * This would be best done in a database where we store the first and last
+ # picture seen in any set. Then upon scanning each new picture, we
  * would be able to tell if that fit in a time range of another set and
  * suggest it. That would be incredibly useful for obtaining pictures from
  * other people's cameras and adding to your already existing events!
